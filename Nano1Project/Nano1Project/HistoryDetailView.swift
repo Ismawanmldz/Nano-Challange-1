@@ -52,8 +52,8 @@ struct HistoryDetailView: View {
     }
 }
 
-struct HistoryDetailView_Previews: PreviewProvider {
-    static var previews: some View {
-        HistoryDetailView()
-    }
-}
+//struct HistoryDetailView_Previews: PreviewProvider {
+//    static var previews: some View {
+//        HistoryDetailView()
+//    }
+//}
